@@ -1,7 +1,6 @@
 # Redux-AddToCartExample
 I created a Add To Cart project which made by React-Redux for practising
-![image](https://user-images.githubusercontent.com/83770786/190870580-7971ac23-8c1f-45f8-8261-6d4bc1adc2b0.png)
 
-![image](https://user-images.githubusercontent.com/83770786/190870620-d1335d69-0f85-450f-9e36-f33eb353e4eb.png)
+![cart1](https://user-images.githubusercontent.com/83770786/190870750-a1065dda-f3a3-489a-99e1-29a3612a35fb.png)
 
-![image](https://user-images.githubusercontent.com/83770786/190870631-f81c863d-f165-448f-8a39-189fef2d61b7.png)
+![cart1](https://user-images.githubusercontent.com/83770786/190870807-5b0a85e7-1e78-42dd-bb7c-a7fe06baccd1.png)
